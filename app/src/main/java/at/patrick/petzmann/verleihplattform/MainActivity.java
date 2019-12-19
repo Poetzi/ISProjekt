@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void login(View view) {
         Intent intent = new Intent(this, VerleihenAusleihenActivity.class);
-        //Kommentar Test 1
+        //Kommentar Test 1222222222222222222222222222222222222222222222
         EditText benutzername = findViewById(R.id.editText_Benutzername);
         EditText passwort = findViewById(R.id.editText_Passswort);
 
